@@ -5,7 +5,7 @@ baseurl:     "MPNAB"
 url:              "" # Site url, without a slash at the end.
 signoff:          "lord-asgord" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+google_analytics: G-HELL10WEHH
 share:            false # Turn on twitter and facebook share buttons
 
 links:
