@@ -1,11 +1,11 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Marvel: Play as Naruto at the beginning "
+title:            "The Priest of Corruption"
 description:      ""
-baseurl:     "MPNAB"
+baseurl:     "POC"
 url:              "" # Site url, without a slash at the end.
 signoff:          "lord-asgord" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: G-HELL10WEHH
+google_analytics: G-5WGSBWYQMT
 share:            false # Turn on twitter and facebook share buttons
 
 links:
